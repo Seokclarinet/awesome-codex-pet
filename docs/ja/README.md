@@ -12,7 +12,7 @@
 
 <a href="https://codexpet.top/ja"><img src="../../assets/cover/awesome-codex-pet-cover.png" alt="Awesome Codex Pet ギャラリーを開く"></a>
 
-![pets: 302](https://img.shields.io/badge/pets-302-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
+![pets: 303](https://img.shields.io/badge/pets-303-2ea44f) ![categories: 11](https://img.shields.io/badge/categories-11-0969da) ![languages: en | zh--CN | ko | ja | es](https://img.shields.io/badge/languages-en%20%7C%20zh--CN%20%7C%20ko%20%7C%20ja%20%7C%20es-8250df) ![code: MIT](https://img.shields.io/badge/code-MIT-111111) ![assets: CC BY--NC 4.0](https://img.shields.io/badge/assets-CC%20BY--NC%204.0-f97316) ![install: one command](https://img.shields.io/badge/install-one%20command-111111) [![Pet previews](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml/badge.svg)](https://github.com/legeling/awesome-codex-pet/actions/workflows/pet-previews.yml)
 
 </div>
 
@@ -69,7 +69,7 @@ npx @legeling/codex-pet
 </table>
 
 <details>
-<summary>全ペット一覧（テキストのみ） · 302</summary>
+<summary>全ペット一覧（テキストのみ） · 303</summary>
 
 ### ゲームキャラクター
 
@@ -169,6 +169,7 @@ npx @legeling/codex-pet
 <li><a href="../../pets/zhuzhuxia--ryde-play">GG Bond</a> · 作者 <a href="https://github.com/RYDE-PLAY">@RYDE-PLAY</a> · v2</li>
 <li><a href="../../pets/gojo--lilokhalikfa">Gojo</a> · 作者 <a href="https://codex-pets.net/users/lilokhalikfa">@lilokhalikfa</a> · v1</li>
 <li><a href="../../pets/han-li--metro186">Han Li</a> · 作者 <a href="https://github.com/metro186">@metro186</a> · v2</li>
+<li><a href="../../pets/holo--james991116">Holo</a> · 作者 <a href="https://github.com/James991116">@James991116</a> · v2</li>
 <li><a href="../../pets/ikaros--icarus-alpha">Ikaros</a> · 作者 <a href="https://codex-pets.net/users/icarus-alpha">@icarus-alpha</a> · v1</li>
 <li><a href="../../pets/isekaijoucho--siiverash">Isekaijoucho</a> · 作者 <a href="https://github.com/SiIverAsh">@SiIverAsh</a> · v1</li>
 <li><a href="../../pets/jolyne-cujoh--d2682787206-sys">Jolyne Cujoh</a> · 作者 <a href="https://github.com/d2682787206-sys">@d2682787206-sys</a> · v2</li>
