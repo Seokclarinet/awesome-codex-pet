@@ -2605,6 +2605,20 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "asuka--masashitoda1": {
+      "name": "明日香",
+      "localizedNames": {
+        "en": "Asuka — Chibi (v2)",
+        "zh": "明日香·Q版（v2）"
+      },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "849ab3c5e189742e46e97dac497c6e7f7e5b9eb1176b77076fdb32d2b492c1bc",
+      "petJsonBytes": 247,
+      "spritesheetSha256": "840da877890016d435e1a6fea38bcdee77fc0c7e7df7fd0d127c821665cb399c",
+      "spritesheetBytes": 2286688,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "xingxingren--legeling": {
       "name": "星星人",
       "localizedNames": { "en": "Star Person", "zh": "星星人" },
