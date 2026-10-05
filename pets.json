@@ -1452,6 +1452,21 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "maodie--trahex",
+    "name": "Maodie",
+    "localized_names": { "en": "Maodie", "zh": "耄耋" },
+    "author": "Trahex",
+    "author_handle": "Trahex",
+    "author_url": "https://github.com/Trahex",
+    "primary_category": "Memes",
+    "canonical_key": "meme/maodie",
+    "variant_note": "Independently AI-generated photorealistic v2 interpretation by Trahex, distinct from maodie--octane0411. Features a stationary tense hiss for pointer interaction, alternating paws typing on a keyboard during task work, and sixteen look directions. The usual jumping row intentionally contains grounded hissing, as requested by the submitter.",
+    "collections": ["animal-companions"],
+    "license": "Non-commercial use only.",
+    "description": "A photorealistic orange Maodie cat with folded airplane ears, glaring eyes, a fierce grounded hiss, and alternating keyboard paw presses.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "march-7th--chenxin-dlut",
     "name": "March 7th",
     "localized_names": { "en": "March 7th", "zh": "三月七" },

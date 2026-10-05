@@ -1214,6 +1214,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 1872
     },
+    "maodie--trahex": {
+      "name": "Maodie",
+      "localizedNames": { "en": "Maodie", "zh": "耄耋" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "8ee2dd238c4aacf2eca5fb5cdcab61a2ee7c38ec0cc78db48917705804f71917",
+      "petJsonBytes": 275,
+      "spritesheetSha256": "65995bf415b5682bc7bfa2b1b6ef6a76f979ff5a3114b9f8bca6831a6d649ec0",
+      "spritesheetBytes": 2473908,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "march-7th--chenxin-dlut": {
       "name": "March 7th",
       "localizedNames": { "en": "March 7th", "zh": "三月七" },
