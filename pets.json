@@ -3249,6 +3249,21 @@
     "spriteVersionNumber": 2
   },
   {
+    "slug": "hikari-seated--masashitoda1",
+    "name": "橘光",
+    "localized_names": { "en": "Hikari — Seated", "zh": "橘光·坐姿" },
+    "author": "MasashiToda1",
+    "author_handle": "MasashiToda1",
+    "author_url": "https://github.com/MasashiToda1",
+    "primary_category": "Game Characters",
+    "canonical_key": "blue-archive/hikari",
+    "variant_note": "由 MasashiToda1 通过 Codex / ImageGen 独立制作的 v2 坐姿版本；角色坐在小转椅上，以滑行动作表现左右移动，以连椅轻跳表现 jumping。",
+    "collections": [],
+    "license": "仅限非商业使用，禁止商用。允许本仓库收录、展示及分发此独立 AI 生成的同人宠物及预览；非官方作品，不代表获得角色权利方授权。角色及商标权利归各自权利人所有。",
+    "description": "《碧蓝档案》橘光的 Q 版坐姿宠物：列车制服、小转椅、自然翘腿，包含九种任务动画和十六方向视线。 成品由 Codex / ImageGen 根据官方角色外观参考独立生成，官方图片仅作参考，未直接裁切或粘贴进图集。",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "capybara-lulu--jiushu",
     "name": "水豚噜噜",
     "author": "jiushu",

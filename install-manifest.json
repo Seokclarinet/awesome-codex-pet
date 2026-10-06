@@ -2702,6 +2702,17 @@
       "spritesheetWidth": 1536,
       "spritesheetHeight": 2288
     },
+    "hikari-seated--masashitoda1": {
+      "name": "橘光",
+      "localizedNames": { "en": "Hikari — Seated", "zh": "橘光·坐姿" },
+      "spriteVersionNumber": 2,
+      "petJsonSha256": "b54a34f1245c1da7199589114ff7feeab8e257e1ac47d1a6be87416790b7982a",
+      "petJsonBytes": 297,
+      "spritesheetSha256": "771edcbc19ba9d9d6db13c271f3d026073feee3f3e86a5f23c3542fa027d96e2",
+      "spritesheetBytes": 2278630,
+      "spritesheetWidth": 1536,
+      "spritesheetHeight": 2288
+    },
     "capybara-lulu--jiushu": {
       "name": "水豚噜噜",
       "spriteVersionNumber": 1,
