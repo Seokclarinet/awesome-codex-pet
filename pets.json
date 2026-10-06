@@ -971,6 +971,21 @@
     "spriteVersionNumber": 1
   },
   {
+    "slug": "hanako-kun--legeling",
+    "name": "Hanako-kun",
+    "localized_names": { "en": "Hanako-kun", "zh": "花子君" },
+    "author": "legeling",
+    "author_handle": "legeling",
+    "author_url": "https://github.com/legeling",
+    "primary_category": "Anime Characters",
+    "canonical_key": "fictional/toilet-bound-hanako-kun/hanako",
+    "variant_note": "Independently AI-generated, lightly pixel-styled chibi v2 interpretation with nine standard animations and sixteen look directions.",
+    "collections": [],
+    "license": "Non-commercial use only. Hanako-kun and Toilet-bound Hanako-kun belong to AidaIro and their respective rights holders. This fan-art submission does not grant rights to the underlying character or reference artwork.",
+    "description": "Hanako-kun fan art from Toilet-bound Hanako-kun (地缚少年花子君), independently AI-generated with the OpenAI image tool at legeling's direction. The image supplied in issue #244 was used as a visual reference only; it is not included in this package. The exact final spritesheet was reviewed and approved before submission.",
+    "spriteVersionNumber": 2
+  },
+  {
     "slug": "holo--james991116",
     "name": "Holo",
     "localized_names": { "en": "Holo", "zh": "赫萝" },
