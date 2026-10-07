@@ -84,50 +84,6 @@
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/246"
   },
   {
-    "number": 242,
-    "character": "Glep",
-    "characterDetails": "Glep",
-    "franchise": "Not provided",
-    "category": "other",
-    "version": "v2",
-    "requestType": "Create a new community interpretation",
-    "referenceStatus": "",
-    "references": "https://api.codexpet.top/uploads/reference/references/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.jpg",
-    "referenceUrls": [
-      "https://api.codexpet.top/uploads/reference/references/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.jpg"
-    ],
-    "referenceImages": [
-      "https://api.codexpet.top/uploads/reference/references/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.jpg"
-    ],
-    "referenceThumbnails": [
-      "https://api.codexpet.top/uploads/reference/thumbnails/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.webp"
-    ],
-    "visualDirection": "Pixaleted wizard Glep. It looks very fun. he can wave his wand whole working, or drinking oversized cup of tea for idle pose.\nThe only thing is that it would be better to add black stroke, the screenshot doesnt have it. Thank you!",
-    "nameLanguages": "Let the maker decide",
-    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
-    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
-    "state": "open",
-    "status": "triage",
-    "labels": [
-      "type: request",
-      "status: triage",
-      "version: v2",
-      "category: other"
-    ],
-    "author": {
-      "login": "github-actions[bot]",
-      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
-      "url": "https://github.com/apps/github-actions"
-    },
-    "assignees": [],
-    "createdAt": "2026-10-04T17:36:20Z",
-    "updatedAt": "2026-10-04T17:36:20Z",
-    "closedAt": null,
-    "comments": 0,
-    "reactions": 0,
-    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/242"
-  },
-  {
     "number": 239,
     "character": "狸花猫",
     "characterDetails": "狸花猫",
@@ -621,6 +577,50 @@
     "comments": 0,
     "reactions": 0,
     "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/91"
+  },
+  {
+    "number": 242,
+    "character": "Glep",
+    "characterDetails": "Glep",
+    "franchise": "Not provided",
+    "category": "other",
+    "version": "v2",
+    "requestType": "Create a new community interpretation",
+    "referenceStatus": "",
+    "references": "https://api.codexpet.top/uploads/reference/references/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.jpg",
+    "referenceUrls": [
+      "https://api.codexpet.top/uploads/reference/references/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.jpg"
+    ],
+    "referenceImages": [
+      "https://api.codexpet.top/uploads/reference/references/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.jpg"
+    ],
+    "referenceThumbnails": [
+      "https://api.codexpet.top/uploads/reference/thumbnails/7e8049af10c2515efd14f0c0b1a5d378376bd9f256fd1c9ac63eda2a532acab8.webp"
+    ],
+    "visualDirection": "Pixaleted wizard Glep. It looks very fun. he can wave his wand whole working, or drinking oversized cup of tea for idle pose.\nThe only thing is that it would be better to add black stroke, the screenshot doesnt have it. Thank you!",
+    "nameLanguages": "Let the maker decide",
+    "attribution": "Submitted without a GitHub account. Reference and attribution details should be confirmed during triage. Non-commercial use only.",
+    "duplicateCheck": "Repository automation or a maintainer should complete the duplicate check during triage.",
+    "state": "closed",
+    "status": "completed",
+    "labels": [
+      "type: request",
+      "status: completed",
+      "version: v2",
+      "category: other"
+    ],
+    "author": {
+      "login": "github-actions[bot]",
+      "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+      "url": "https://github.com/apps/github-actions"
+    },
+    "assignees": [],
+    "createdAt": "2026-10-04T17:36:20Z",
+    "updatedAt": "2026-10-07T06:19:09Z",
+    "closedAt": "2026-10-07T06:18:24Z",
+    "comments": 3,
+    "reactions": 0,
+    "githubUrl": "https://github.com/legeling/awesome-codex-pet/issues/242"
   },
   {
     "number": 244,
